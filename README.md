@@ -103,3 +103,13 @@ Seat comfort
 Service ratings
 
 Travel class
+
+📈 Key Findings
+
+Service-related features strongly drive satisfaction
+
+Business class passengers show significantly higher satisfaction
+
+Delays drastically reduce satisfaction levels
+
+Ensemble models produce highest accuracy
