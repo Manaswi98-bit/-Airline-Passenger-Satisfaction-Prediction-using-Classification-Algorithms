@@ -1,5 +1,4 @@
 # -Airline-Passenger-Satisfaction-Prediction-using-Classification-Algorithms
-✈️ Airline Passenger Satisfaction Prediction using Classification Algorithms
 
 A machine learning project designed to predict passenger satisfaction using classification models, feature engineering, and airline survey data.
 
